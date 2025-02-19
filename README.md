@@ -2,7 +2,7 @@
 
 **Last Updated:** [02/19/25]  
 
-By using **[Edater]** (the "Bot"), you agree to the following Terms of Service. If you do not agree, do not use the Bot.  
+By using **Edater** (the "Bot"), you agree to the following Terms of Service. If you do not agree, do not use the Bot.  
 
 ---
 
@@ -54,5 +54,5 @@ Using the Bot for any of the following is strictly forbidden:
 
 ### **7. Contact & Reporting Issues**  
 For questions, support, or to report abuse:  
-📧 Email: [rizxebots@gmail.com] 
+📧 Email: rizxebots@gmail.com 
 🌐 Server: [EDATER](https://discord.gg/WY8gBVF9s5)  
