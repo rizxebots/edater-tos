@@ -1,4 +1,4 @@
-### **Custom License for Edater Bot**  
+### **License for Edater Bot**  
 
 **Copyright © 2025 [EDATER]**  
 All Rights Reserved.  
