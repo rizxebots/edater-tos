@@ -1,4 +1,4 @@
-### **Terms of Service for [EDATER]**  
+### **Terms of Service for EDATER**  
 
 **Last Updated:** [02/19/25]  
 
